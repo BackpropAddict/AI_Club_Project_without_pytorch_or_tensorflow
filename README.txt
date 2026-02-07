@@ -1,4 +1,4 @@
-Yeah so you did bother opening the Readme... nice of you
+Read to the end (might save you time)
 
 This is the command for installing cupy on conda
 conda install -c conda-forge cupy
