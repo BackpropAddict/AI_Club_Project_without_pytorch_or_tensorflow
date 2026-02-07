@@ -14,3 +14,5 @@ As the functions (like convolve4D and pool) are used in the forward pass you can
 Final point
 I am not quite serious about the club and won't be joining even if given the chance (Read the next line tho).
 If you seriously find the code interesting, call me for the PI, we can have a chat as I myself am very interested in Deep learning and I'd like to talk to you guys about your sudoku project as I am currently doing something along those lines.
+
+This Repo is going to get deleted on 15 feb 2026 (Or PI, whichever happens (first)) . Please view beforehand
