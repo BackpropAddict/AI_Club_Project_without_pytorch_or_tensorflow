@@ -5,6 +5,7 @@ conda install -c conda-forge cupy
 HINT: Install cudatoolkit along with this (conda install cudatoolkit) as ig cupy doesn't work without it
 The other modules come along with it.
 Cupy is only valid if you have a GPU and drivers along with it.
+
 If you seriously want to get started with reading the code I would suggest you to start form under """   Editable Values """.
 You can read how the dataset is imported and parameters are generated.
 As the functions (like convolve4D and pool) are used in the forward pass you can go up to their definitions if you want
